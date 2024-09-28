@@ -1,8 +1,9 @@
 # <div align="center">Hi, I'm Bettina! 👋</div>
 <div align="center">
-  <a href="https://www.linkedin.com/in/bettina-george/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin-2.png" alt="LinkedIn" style="width: 25px; height: 25px;"/>
-  </a>
+  <a href="https://www.linkedin.com/in/bettina-george/" target="_blank" style="text-decoration: none;">
+    <div style="background-color: #0077B5; color: white; padding: 10px 20px; border-radius: 5px; display: inline-block; font-weight: bold;">
+      LinkedIn
+    </div>
 </div>
 
 ## 👩‍🎓 Who am I?
