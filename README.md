@@ -1,5 +1,9 @@
-# Hi, I'm Bettina! 👋  
-[LinkedIn](https://www.linkedin.com/in/bettina-george/) | [GitHub](https://github.com/BettinaGeorge)
+# <div align="center">Hi, I'm Bettina! 👋</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/bettina-george/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin-2.png" alt="LinkedIn" style="width: 25px; height: 25px;"/>
+  </a>
+</div>
 
 ## 👩‍🎓 Who am I?
 🏫 I am a current student at the University of North Carolina at Chapel Hill, majoring in Computer Science and Information Science. I’m expected to graduate in May 2027.
@@ -13,6 +17,7 @@ I’m actively pursuing a career as a Software Developer or UI/UX Developer, whe
 
 ## 🌱 In my free time
 I love engaging with the community, whether in tech, cultural, or charity-based spaces! I attend hackathons and explore new technical and design tools. As a creative person, I dedicate time to hobbies like dancing, painting, and drawing. I also enjoy fitness activities and spending quality time with friends!
+
 
 
 ## Skills
