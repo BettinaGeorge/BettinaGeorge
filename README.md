@@ -1,7 +1,7 @@
 # <div align="center">Hi, I'm Bettina! 👋</div>
 <div align="center">
   <a href="https://www.linkedin.com/in/bettina-george/" target="_blank" style="text-decoration: none;">
-    <div style="background-color: #0077B5; color: white; padding: 10px 20px; border-radius: 5px; display: inline-block; font-weight: bold;">
+    <div style="background-color: #0077B5; color: white; padding: 10px 20px; border-radius: 5px; display: inline-block; font-weight: bold; text-align: center;">
       LinkedIn
     </div>
 </div>
