@@ -1,6 +1,19 @@
-## Hi there 👋
-## About Me
-Hello! I'm Bettina George, a Computer Science and Information Science student at UNC Chapel Hill with a passion for UI/UX, software development, and projects that drive social good. My hackathon projects like *Diaspora Duo* and *FidPath* showcase my interest in creating innovative, user-centered solutions. I'm always eager to expand my skills in web development, data analysis, and design while working on impactful projects.
+# Hi, I'm Bettina! 👋  
+[LinkedIn](https://www.linkedin.com/in/bettina-george/) | [GitHub](https://github.com/BettinaGeorge)
+
+## 👩‍🎓 Who am I?
+🏫 I am a current student at the University of North Carolina at Chapel Hill, majoring in Computer Science and Information Science. I’m expected to graduate in May 2027.
+
+🚀 I’m passionate about using technology to create innovative solutions that promote social good. I love collaborating on projects that prioritize user experience, especially in UI/UX design and software development.
+
+💻 I enjoy building full-stack applications, focusing on technologies like React, Node.js, and Python. I’m also interested in data analysis and utilizing tools like Tableau to derive insights.
+
+## 👀 Career Aspirations
+I’m actively pursuing a career as a Software Developer or UI/UX Developer, where I can contribute to meaningful projects and enhance user experiences. In the long run, my goal is to move into Product Development and Product Management with a broad and diverse mindset.
+
+## 🌱 In my free time
+I love engaging with the community, whether in tech, cultural, or charity-based spaces! I attend hackathons and explore new technical and design tools. As a creative person, I dedicate time to hobbies like dancing, painting, and drawing. I also enjoy fitness activities and spending quality time with friends!
+
 
 ## Skills
 
@@ -37,4 +50,4 @@ Here are some of the tools and technologies I've worked with:
 
 I'm always eager to take on new challenges, whether it's learning new technologies or applying my skills to real-world projects!
 
-I'm always eager to take on new challenges, whether it's learning new technologies or applying my skills to real-world projects!
+
