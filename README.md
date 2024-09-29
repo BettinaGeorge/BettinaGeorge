@@ -1,10 +1,7 @@
-# <div align="center">Hi, I'm Bettina! 👋</div>
-<div align="center">
-  <a href="https://www.linkedin.com/in/bettina-george/" target="_blank" style="text-decoration: none;">
-    <div style="background-color: #0077B5; color: white; padding: 10px 20px; border-radius: 5px; display: inline-block; font-weight: bold; text-align: center;">
-      LinkedIn
-    </div>
-</div>
+<h1 align="center">Hi, I'm Bettina! 👋</h1>
+<p align="center">
+    <a href="https://www.linkedin.com/in/bettina-george/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linked In"></a>
+</p>
 
 ## 👩‍🎓 Who am I?
 🏫 I am a current student at the University of North Carolina at Chapel Hill, majoring in Computer Science and Information Science. I’m expected to graduate in May 2027.
