@@ -3,54 +3,80 @@
     <a href="https://www.linkedin.com/in/bettina-george/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linked In"></a>
 </p>
 
-## 👩‍🎓 Who am I?
-🏫 I am a current student at the University of North Carolina at Chapel Hill, majoring in Computer Science and Information Science. I’m expected to graduate in May 2027.
+# 👋🏽 Hi, I’m Bettina George!
 
-🚀 I’m passionate about using technology to create innovative solutions that promote social good. I love collaborating on projects that prioritize user experience, especially in UI/UX design and software development.
+I'm a Computer Science and Information Science student at **UNC Chapel Hill (Class of 2027)**, passionate about building innovative, human-centered tech solutions that create social impact.
 
-💻 I enjoy building full-stack applications, focusing on technologies like React, Node.js, and Python. I’m also interested in data analysis and utilizing tools like Tableau to derive insights.
+---
+
+## 💡 Who I Am
+
+🚀 I’m a builder and a creative — equally excited about clean code and beautiful design. I love working on full-stack applications, with a strong interest in UI/UX, product thinking, and how technology can be used to empower communities.
+
+🤖 Recently, I’ve been diving deep into how to harness **AI not just as a buzzword, but as a tool** to boost creativity, automate workflows, and make smarter decisions across design and development.
+
+💻 My experience spans **software engineering, instructional design, AI/ML, and data analysis** — from internships and fellowships to hackathons and research.
+
+🤝 I thrive in collaborative environments, especially when working at the intersection of **tech, design, and strategy**.
+
+---
+
+## 🧠 Current Focus Areas
+
+- **Software Development**: Building full-stack apps using React, Node.js, Python, and FastAPI  
+- **AI/ML**: Leveraging machine learning models and AI-assisted tools (e.g., LLMs, automation workflows) through the *Break Through Tech AI Fellowship* to enhance user experiences and streamline development  
+- **UX/UI Design**: Creating accessible and meaningful user experiences with Figma, Adobe Suite, and Canva  
+- **Data Insights**: Using tools like Tableau, Pandas, and SQL to derive insights and inform product strategy  
+
+---
 
 ## 👀 Career Aspirations
-I’m actively pursuing a career as a Software Developer or UI/UX Developer, where I can contribute to meaningful projects and enhance user experiences. In the long run, my goal is to move into Product Development and Product Management with a broad and diverse mindset.
 
-## 🌱 In my free time
-I love engaging with the community, whether in tech, cultural, or charity-based spaces! I attend hackathons and explore new technical and design tools. As a creative person, I dedicate time to hobbies like dancing, painting, and drawing. I also enjoy fitness activities and spending quality time with friends!
+In the short term, I’m pursuing roles in **software development** and **UI/UX engineering**, where I can create products that are not only functional but delightful to use.
+
+Long-term, I’m working toward **product development and product management**, with a focus on **human-centered AI** — combining technical depth with strategic vision and empathy.
+
+---
+
+## 🧰 Tools & Technologies
+
+### Languages & Libraries  
+Python • JavaScript • TypeScript • Java • C • SQL • HTML/CSS • React • Node.js • Flask • FastAPI
+
+### Tools & Platforms  
+Git & GitHub • Docker • Figma • Adobe Creative Suite • Canva • Tableau • DBeaver • Cypress • Jira • CLI
+
+### Skills  
+- Full-Stack Development  
+- Prototyping & Wireframing  
+- UX Research & Usability Testing  
+- Agile Methodologies  
+- Data Analysis & Visualization  
+- AI-Augmented Workflows  
+- Project Management  
+- SEO & Content Strategy  
+
+---
+
+## 🎓 Relevant Coursework
+
+- **CS**: Data Structures & Algorithms • Object-Oriented Programming • Cybersecurity • Systems Fundamentals  
+- **Info Science**: Foundations of Information Science • Tools for Information Literacy  
+- **Math & Data**: Discrete Math • Calculus I & II • Linear Algebra • Statistics for Psych Research  
+
+---
+
+## 🌱 Outside of Tech
+
+I’m a creative at heart — you’ll find me dancing, painting, modeling, or creating community-driven content. I love building spaces (online or IRL) where people feel inspired to show up fully and authentically.
+
+---
+
+## 📬 Let’s Connect
+
+📍 *Chapel Hill, NC*  
+📧 gobetti@unc.edu  
 
 
-
-## Skills
-
-### Classes
-Here are some of the key classes I’ve taken so far, which have helped me build a solid foundation in both computer science and information science:
-- **Intro to Programming & Data Science**: Gained strong programming fundamentals and learned how to manipulate data using Python.
-- **Data Structures & Algorithms**: Developed problem-solving strategies using various data structures and learned algorithm efficiency.
-- **Foundations of Information Science**: Explored how to design, manage, and analyze information systems.
-- **Tools for Information Literacy**: Learned essential tools and techniques for working with data and information.
-- **Statistical Principles of Psychological Research**: Applied statistical methods to psychological research, improving my ability to analyze and interpret data.
-- **Calculus I & II, Discrete Math, Linear Algebra**: Built a strong mathematical foundation, which I use for analyzing algorithms and problem-solving.
-
-### Tools and Programming Languages
-Here are some of the tools and technologies I've worked with:
-- **Python**: Used for automating tasks, data analysis, and building back-end solutions.
-- **JavaScript & React**: Created dynamic and interactive UIs, such as in my financial dashboard project.
-- **Node.js & Express**: Developed back-end logic for full-stack applications.
-- **HTML/CSS**: Designed and implemented responsive and user-friendly web interfaces.
-- **Git/GitHub**: Used for version control and collaborative projects.
-- **Docker**: Learning to containerize applications for better deployment and scaling.
-- **Figma & Canva**: Designed intuitive user interfaces and prototypes for projects like *FidPath* and *Diaspora Duo*.
-- **Adobe Creative Suite**: Used for creating compelling visuals and enhancing my design projects.
-- **Tableau**: Leveraged for data visualization during my externship and research projects, making complex data easy to understand.
-- **CLI**: Comfortable using command-line tools to manage projects and automate processes.
-
-### Other Relevant Skills
-- **Prototyping & Wireframing**: Skilled in prototyping and wireframing for UI/UX projects using tools like Figma.
-- **User Experience (UX) & UX Research**: Focused on creating user-friendly designs and conducting research to improve user experience.
-- **Usability Testing**: Experienced in gathering user feedback to enhance products and interfaces.
-- **Agile Methodologies**: Familiar with Agile principles for project management and team collaboration.
-- **Project Management**: Organized and managed team-based projects, ensuring tasks are completed on time.
-- **Data Analysis**: Strong skills in analyzing data using Python and Tableau to support decision-making.
-- **Content Strategy & SEO**: Developed content strategies and implemented SEO best practices to improve visibility and engagement.
-
-I'm always eager to take on new challenges, whether it's learning new technologies or applying my skills to real-world projects!
-
+I’m always open to meaningful conversations, collaborations, and creative challenges!
 
