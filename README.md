@@ -3,11 +3,9 @@
     <a href="https://www.linkedin.com/in/bettina-george/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linked In"></a>
 </p>
 
-# 👋🏽 Hi, I’m Bettina George!
+
 
 I'm a Computer Science and Information Science student at **UNC Chapel Hill (Class of 2027)**, passionate about building innovative, human-centered tech solutions that create social impact.
-
----
 
 ## 💡 Who I Am
 
