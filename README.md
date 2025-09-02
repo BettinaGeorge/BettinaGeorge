@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8080,100:ffc0cb&height=180&section=header&text=Hi%20I'm%20Bettina%20👋&fontSize=45&fontColor=ffffff" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8080,100:f4e8d8&height=180&section=header&text=Hi%20I'm%20Bettina%20👋&fontSize=45&fontColor=ffffff" alt="banner"/>
 </p>
 
 <!-- Social Links -->
@@ -44,12 +44,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BettinaGeorge&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BettinaGeorge&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=30,f4e8d8,ff8080&title_color=6a0dad&text_color=333333&icon_color=ff8080&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=30,f4e8d8,ff8080&title_color=6a0dad&text_color=333333&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BettinaGeorge&theme=radical&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&background=30,f4e8d8,ff8080&ring=ff8080&fire=ff8080&currStreakLabel=6a0dad&sideNums=333333&sideLabels=333333&dates=444444&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -63,9 +63,9 @@
 
 ## 📚 Coursework Highlights  
 
-- **CS**: Data Structures & Algorithms • OOP • Cybersecurity • Systems Fundamentals  
-- **Info Science**: Foundations • Tools for Info Literacy  
-- **Math/Data**: Discrete Math • Linear Algebra • Statistics • Calculus I & II  
+- **CS**: Data Structures & Algorithms • Intro to Programming & Data Science • Object-Oriented Programming • Modern Web Programming • Computer Organization • Systems Fundamentals • Intro to DB Concepts/Apps • Algorithms and Analysis  
+- **Cyber/Info Science**: Intro to Cybersecurity • Info Systems Analysis and Design  
+- **Math/Data**: Discrete Math • Linear Algebra • Calculus I & II  
 
 ---
 
@@ -87,5 +87,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc0cb,100:ff8080&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4e8d8,100:ff8080&height=100&section=footer"/>
 </p>
