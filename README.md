@@ -1,80 +1,91 @@
-<h1 align="center">Hi, I'm Bettina! 👋</h1>
+<!-- Banner -->
 <p align="center">
-    <a href="https://www.linkedin.com/in/bettina-george/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linked In"></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8080,100:ffc0cb&height=180&section=header&text=Hi%20I'm%20Bettina%20👋&fontSize=45&fontColor=ffffff" alt="banner"/>
 </p>
 
-
-
-I'm a Computer Science and Information Science student at **UNC Chapel Hill (Class of 2027)**, passionate about building innovative, human-centered tech solutions that create social impact.
-
-## 💡 Who I Am
-
-🚀 I’m a builder and a creative — equally excited about clean code and beautiful design. I love working on full-stack applications, with a strong interest in UI/UX, product thinking, and how technology can be used to empower communities.
-
-🤖 Recently, I’ve been diving deep into how to harness **AI not just as a buzzword, but as a tool** to boost creativity, automate workflows, and make smarter decisions across design and development.
-
-💻 My experience spans **software engineering, instructional design, AI/ML, and data analysis** — from internships and fellowships to hackathons and research.
-
-🤝 I thrive in collaborative environments, especially when working at the intersection of **tech, design, and strategy**.
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/bettina-george/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:gobetti@unc.edu"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-## 🧠 Current Focus Areas
+## 💡 About Me  
 
-- **Software Development**: Building full-stack apps using React, Node.js, Python, and FastAPI  
-- **AI/ML**: Leveraging machine learning models and AI-assisted tools (e.g., LLMs, automation workflows) through the *Break Through Tech AI Fellowship* to enhance user experiences and streamline development  
-- **UX/UI Design**: Creating accessible and meaningful user experiences with Figma, Adobe Suite, and Canva  
-- **Data Insights**: Using tools like Tableau, Pandas, and SQL to derive insights and inform product strategy  
-
----
-
-## 👀 Career Aspirations
-
-In the short term, I’m pursuing roles in **software development** and **UI/UX engineering**, where I can create products that are not only functional but delightful to use.
-
-Long-term, I’m working toward **product development and product management**, with a focus on **human-centered AI** — combining technical depth with strategic vision and empathy.
+🚀 **Builder + Creative** — I thrive at the intersection of **clean code and beautiful design**.  
+🤖 Exploring **AI/ML** to transform workflows into intelligent, human-centered systems.  
+💻 Experience across **software engineering, instructional design, AI, and data analysis**.  
+🤝 Passionate about **collaboration** and creating tech that empowers communities.  
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧠 Current Focus  
 
-### Languages & Libraries  
-Python • JavaScript • TypeScript • Java • C • SQL • HTML/CSS • React • Node.js • Flask • FastAPI
-
-### Tools & Platforms  
-Git & GitHub • Docker • Figma • Adobe Creative Suite • Canva • Tableau • DBeaver • Cypress • Jira • CLI
-
-### Skills  
-- Full-Stack Development  
-- Prototyping & Wireframing  
-- UX Research & Usability Testing  
-- Agile Methodologies  
-- Data Analysis & Visualization  
-- AI-Augmented Workflows  
-- Project Management  
-- SEO & Content Strategy  
+- 🔨 **Full-Stack Development**: React, Node.js, Python, FastAPI  
+- 🤖 **AI/ML**: LLMs, automation workflows, *Break Through Tech AI Fellowship*  
+- 🎨 **UX/UI**: Figma, Adobe Creative Suite, accessibility-first design  
+- 📊 **Data Insights**: Tableau, Pandas, SQL  
 
 ---
 
-## 🎓 Relevant Coursework
+## 👩🏽‍💻 Tech Stack  
 
-- **CS**: Data Structures & Algorithms • Object-Oriented Programming • Cybersecurity • Systems Fundamentals  
-- **Info Science**: Foundations of Information Science • Tools for Information Literacy  
-- **Math & Data**: Discrete Math • Calculus I & II • Linear Algebra • Statistics for Psych Research  
-
----
-
-## 🌱 Outside of Tech
-
-I’m a creative at heart — you’ll find me dancing, painting, modeling, or creating community-driven content. I love building spaces (online or IRL) where people feel inspired to show up fully and authentically.
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,html,css,react,nodejs,fastapi,flask,sql" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,ai,ps,pr,tableau,vscode,canva" />
+</p>
 
 ---
 
-## 📬 Let’s Connect
+## 📊 GitHub Stats  
 
-📍 *Chapel Hill, NC*  
-📧 gobetti@unc.edu  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BettinaGeorge&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BettinaGeorge&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BettinaGeorge&theme=radical&hide_border=true" height="165"/>
+</p>
 
-I’m always open to meaningful conversations, collaborations, and creative challenges!
+---
 
+## 🎯 Career Aspirations  
+
+🌟 Short-term: **Software Development & UI/UX Engineering** — crafting products that are both functional and delightful.  
+🚀 Long-term: **Product Development & Product Management** — focusing on **human-centered AI** that merges empathy with strategy.  
+
+---
+
+## 📚 Coursework Highlights  
+
+- **CS**: Data Structures & Algorithms • OOP • Cybersecurity • Systems Fundamentals  
+- **Info Science**: Foundations • Tools for Info Literacy  
+- **Math/Data**: Discrete Math • Linear Algebra • Statistics • Calculus I & II  
+
+---
+
+## 🌱 Beyond Tech  
+
+🎨 **Creative at Heart** → I dance, paint, model, and design.  
+🌍 I love building **community-driven spaces**, online and IRL, that inspire authenticity.  
+
+---
+
+## 📬 Let’s Connect  
+
+<p align="center">
+  <a href="mailto:gobetti@unc.edu"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/bettina-george/"><img src="https://img.shields.io/badge/LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc0cb,100:ff8080&height=100&section=footer"/>
+</p>
