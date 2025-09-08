@@ -71,7 +71,7 @@
 
 ## 🌱 Beyond Tech  
 
-🎨 **Creative at Heart** → I dance, paint, model, and design.  
+🎨 **Creative at Heart** → I'm a content creator! I also dance, paint, model, and design.  
 🌍 I love building **community-driven spaces**, online and IRL, that inspire authenticity.  
 
 ---
