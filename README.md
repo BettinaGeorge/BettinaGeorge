@@ -41,19 +41,18 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://your-project.vercel.app/api?username=BettinaGeorge&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://your-project.vercel.app/api/top-langs/?username=BettinaGeorge&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
+| GitHub Stats | Top Languages |
+| --- | --- |
+| ![GitHub Stats](https://github-readme-stats-opal-beta-94.vercel.app/api?username=BettinaGeorge&show_icons=true&theme=radical&hide_border=true&count_private=true&v=4) | ![Top Langs](https://github-readme-stats-opal-beta-94.vercel.app/api/top-langs/?username=BettinaGeorge&layout=compact&theme=radical&hide_border=true&v=4) |
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BettinaGeorge&theme=radical&hide_border=true" height="165"/>
-</p>
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BettinaGeorge&theme=radical&hide_border=true&v=5)
 
 ---
+
+
+
 
 ## 🎯 Career Aspirations  
 
